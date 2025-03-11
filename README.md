@@ -8,3 +8,5 @@ This database is designed for managing financial transactions related to product
 
 Fact and Dimension Tables (dim_fact)
 Staging Tables (stage)
+
+For this project I used PostgreSQL
